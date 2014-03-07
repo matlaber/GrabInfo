@@ -5,6 +5,7 @@ import java.net.*;
 import javax.swing.text.*;
 import javax.swing.text.html.*;
 import javax.swing.text.html.parser.*;
+import org.w3c.dom.html.*;
 
 public class HtmlParser {
 	public static void main(String [] args) {
@@ -28,12 +29,19 @@ public class HtmlParser {
 			} else {
 				r = new FileReader(spec);
 			}
+			// Swing parser
+//			HTMLEditorKit.Parser parser;
+//			System.out.println("About to parse " + spec);
+//			parser = new ParserDelegator();
+//			parser.parse(r, new HTMLParseLister(), true);			
+//			r.close();
+			// Read and parse
+			MyPos firstStartOccur = MyHtmlParser.findStartTag(r, "div", new MyPos(0,0), null);
+			r = new FileReader(spec);			
+			MyPos firstEndOccur = MyHtmlParser.findEndTag(r, "div", new MyPos(0,0), null);
+			System.out.println(firstStartOccur.getRow() + ", " + firstStartOccur.getCol());
+			System.out.println(firstEndOccur.getRow() + ", " + firstEndOccur.getCol());
 			
-			HTMLEditorKit.Parser parser;
-			System.out.println("About to parse " + spec);
-			parser = new ParserDelegator();
-			parser.parse(r, new HTMLParseLister(), true);			
-			r.close();
 		} catch (Exception e) {
 			System.err.println("Error: " + e);
 			e.printStackTrace(System.err);

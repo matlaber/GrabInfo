@@ -1,0 +1,1542 @@
+About to parse ./output.html
+Comment(9 chars)
+Tag start(<html>), 0 attrs)
+Tag start(<head>), 0 attrs)
+Tag(<meta>, 2 attrs)
+Tag(<meta>, 2 attrs)
+Tag start(<title>), 0 attrs)
+Text(10 chars)
+Tag start(<style>), 0 attrs)
+Text(13594 chars)
+Tag start(<style>), 0 attrs)
+Text(14716 chars)
+Tag start(<noscript>), 0 attrs)
+Tag(<meta>, 2 attrs)
+Parsing error: end.unexpected noscript ? ? at 28694
+Tag start(<body>), 1 attrs)
+Parsing error: invalid.tagatt id div ? at 28739
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt id div ? at 28751
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt onmousedown a ? at 28876
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt id a ? at 28898
+Parsing error: invalid.tagatt onmousedown a ? at 28976
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt id a ? at 28996
+Parsing error: invalid.tagatt onclick a ? at 29103
+Parsing error: invalid.tagatt onmousedown a ? at 29160
+Text(1 chars)
+Tag start(<a>), 4 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt onmousedown a ? at 29315
+Parsing error: invalid.tagatt class a ? at 29343
+Tag start(<a>), 4 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt id div ? at 29370
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 29389
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 29416
+Parsing error: invalid.tagatt onmousedown a ? at 29466
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class div ? at 29487
+Parsing error: invalid.tagatt title div ? at 29501
+Parsing error: end.missing a ? ? at 29502
+Tag start(<div>), 2 attrs)
+Parsing error: unmatched.endtag a ? ? at 29512
+Parsing error: invalid.tagatt class div ? at 29530
+Parsing error: invalid.tagatt id div ? at 29541
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt wdfield a ? at 29646
+Parsing error: invalid.tagatt onmousedown a ? at 29714
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Text(1 chars)
+Tag start(<b>), 0 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 29835
+Parsing error: invalid.tagatt onmousedown a ? at 29904
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30042
+Parsing error: invalid.tagatt onmousedown a ? at 30112
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30221
+Parsing error: invalid.tagatt onmousedown a ? at 30290
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30433
+Parsing error: invalid.tagatt onmousedown a ? at 30500
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30630
+Parsing error: invalid.tagatt onmousedown a ? at 30700
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30809
+Parsing error: invalid.tagatt onmousedown a ? at 30876
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt wdfield a ? at 30991
+Parsing error: invalid.tagatt onmousedown a ? at 31060
+Text(1 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt onmousedown a ? at 31162
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt name form ? at 31196
+Parsing error: invalid.tagatt class form ? at 31219
+Tag start(<form>), 3 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Parsing error: invalid.tagatt class span ? at 31421
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt id input ? at 31446
+Parsing error: invalid.tagatt class input ? at 31460
+Tag(<input>, 5 attrs)
+Parsing error: invalid.tagatt class span ? at 31523
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt id input ? at 31552
+Parsing error: invalid.tagatt class input ? at 31582
+Parsing error: invalid.tagatt onmousedown input ? at 31630
+Parsing error: invalid.tagatt onmouseout input ? at 31669
+Tag(<input>, 6 attrs)
+Parsing error: invalid.tagatt class span ? at 31696
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt id span ? at 31715
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt id div ? at 31730
+Parsing error: end.missing span ? ? at 31731
+Parsing error: end.missing span ? ? at 31731
+Tag start(<div>), 1 attrs)
+Tag start(<span>), 0 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt id ul ? at 31767
+Tag start(<ul>), 1 attrs)
+Tag start(<li>), 0 attrs)
+Tag start(<a>), 2 attrs)
+Text(2 chars)
+Tag start(<li>), 0 attrs)
+Tag start(<a>), 2 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class li ? at 31864
+Tag start(<li>), 1 attrs)
+Tag start(<li>), 0 attrs)
+Tag start(<a>), 2 attrs)
+Text(2 chars)
+Parsing error: unmatched.endtag span ? ? at 31923
+Parsing error: invalid.tagatt class span ? at 31943
+Tag start(<span>), 1 attrs)
+Tag start(<strong>), 0 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt onmousedown a ? at 32132
+Tag start(<a>), 3 attrs)
+Text(10 chars)
+Parsing error: unmatched.endtag span ? ? at 32161
+Parsing error: javascript.unsupported ? ? ? at 32182
+Tag start(<script>), 0 attrs)
+Comment(21 chars)
+Comment(65 chars)
+Parsing error: tag.ignore style ? ? at 32291
+Parsing error: unmatched.endtag style ? ? at 40589
+Parsing error: javascript.unsupported ? ? ? at 40597
+Text(8290 chars)
+Tag start(<script>), 0 attrs)
+Comment(7697 chars)
+Parsing error: javascript.unsupported ? ? ? at 48311
+Tag start(<script>), 0 attrs)
+Comment(3628 chars)
+Parsing error: invalid.tagatt id div ? at 51967
+Parsing error: invalid.tagatt class div ? at 51987
+Tag start(<div>), 2 attrs)
+Parsing error: javascript.unsupported ? ? ? at 51996
+Tag start(<script>), 0 attrs)
+Comment(118 chars)
+Parsing error: invalid.tagatt id div ? at 52146
+Parsing error: invalid.tagatt class div ? at 52164
+Tag start(<div>), 2 attrs)
+Tag start(<table>), 2 attrs)
+Tag start(<tr>), 0 attrs)
+Tag start(<td>), 1 attrs)
+Tag start(<div>), 0 attrs)
+Parsing error: invalid.tagatt id div ? at 52252
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 52285
+Parsing error: invalid.tagatt tpl div ? at 52308
+Parsing error: invalid.tagatt data-click div ? at 52533
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class div ? at 52600
+Tag start(<div>), 1 attrs)
+Parsing error: tag.ignore style ? ? at 52613
+Parsing error: unmatched.endtag style ? ? at 52771
+Parsing error: invalid.tagatt class div ? at 52784
+Text(150 chars)
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 52843
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt title span ? at 52867
+Tag start(<span>), 1 attrs)
+Text(7 chars)
+Parsing error: invalid.tagatt class div ? at 52927
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 52948
+Parsing error: invalid.tagatt data-click div ? at 53014
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 53037
+Parsing error: invalid.tagatt data-click div ? at 53093
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 53326
+Parsing error: invalid.tagatt data-b64-id img ? at 53365
+Parsing error: invalid.tagatt class img ? at 53405
+Parsing error: req.att  src img ? at 53407
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 53459
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 53660
+Parsing error: invalid.tagatt data-click div ? at 53716
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 53949
+Parsing error: invalid.tagatt data-b64-id img ? at 53988
+Parsing error: invalid.tagatt class img ? at 54028
+Parsing error: req.att  src img ? at 54030
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 54082
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 54297
+Parsing error: invalid.tagatt data-click div ? at 54354
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 54596
+Parsing error: invalid.tagatt data-b64-id img ? at 54634
+Parsing error: invalid.tagatt class img ? at 54674
+Parsing error: req.att  src img ? at 54676
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 54728
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 54976
+Parsing error: invalid.tagatt data-click div ? at 55032
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 55275
+Parsing error: invalid.tagatt data-b64-id img ? at 55314
+Parsing error: invalid.tagatt class img ? at 55354
+Parsing error: req.att  src img ? at 55356
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 55408
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 55650
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 55673
+Parsing error: invalid.tagatt data-click div ? at 55739
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 55762
+Parsing error: invalid.tagatt data-click div ? at 55818
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 56051
+Parsing error: invalid.tagatt data-b64-id img ? at 56090
+Parsing error: invalid.tagatt class img ? at 56130
+Parsing error: req.att  src img ? at 56132
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 56184
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 56385
+Parsing error: invalid.tagatt data-click div ? at 56441
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 56674
+Parsing error: invalid.tagatt data-b64-id img ? at 56713
+Parsing error: invalid.tagatt class img ? at 56753
+Parsing error: req.att  src img ? at 56755
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 56807
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 57022
+Parsing error: invalid.tagatt data-click div ? at 57079
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 57321
+Parsing error: invalid.tagatt data-b64-id img ? at 57359
+Parsing error: invalid.tagatt class img ? at 57399
+Parsing error: req.att  src img ? at 57401
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 57453
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 57701
+Parsing error: invalid.tagatt data-click div ? at 57757
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 58000
+Parsing error: invalid.tagatt data-b64-id img ? at 58039
+Parsing error: invalid.tagatt class img ? at 58079
+Parsing error: req.att  src img ? at 58081
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 58133
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 58391
+Parsing error: invalid.tagatt tpl div ? at 58414
+Parsing error: invalid.tagatt data-click div ? at 58639
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class div ? at 58706
+Tag start(<div>), 1 attrs)
+Parsing error: tag.ignore style ? ? at 58719
+Parsing error: unmatched.endtag style ? ? at 58877
+Parsing error: invalid.tagatt class div ? at 58890
+Text(150 chars)
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 58949
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt title span ? at 58972
+Tag start(<span>), 1 attrs)
+Text(6 chars)
+Parsing error: invalid.tagatt class div ? at 59031
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 59052
+Parsing error: invalid.tagatt data-click div ? at 59118
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 59141
+Parsing error: invalid.tagatt data-click div ? at 59201
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 59454
+Parsing error: invalid.tagatt data-b64-id img ? at 59493
+Parsing error: invalid.tagatt class img ? at 59533
+Parsing error: req.att  src img ? at 59535
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 59587
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 59810
+Parsing error: invalid.tagatt data-click div ? at 59870
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 60123
+Parsing error: invalid.tagatt data-b64-id img ? at 60162
+Parsing error: invalid.tagatt class img ? at 60202
+Parsing error: req.att  src img ? at 60204
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 60256
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 60493
+Parsing error: invalid.tagatt data-click div ? at 60553
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 60805
+Parsing error: invalid.tagatt data-b64-id img ? at 60843
+Parsing error: invalid.tagatt class img ? at 60883
+Parsing error: req.att  src img ? at 60885
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 60937
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 61196
+Parsing error: invalid.tagatt data-click div ? at 61256
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 61509
+Parsing error: invalid.tagatt data-b64-id img ? at 61548
+Parsing error: invalid.tagatt class img ? at 61588
+Parsing error: req.att  src img ? at 61590
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 61642
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 61895
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 61918
+Parsing error: invalid.tagatt data-click div ? at 61984
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 62007
+Parsing error: invalid.tagatt data-click div ? at 62067
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 62320
+Parsing error: invalid.tagatt data-b64-id img ? at 62359
+Parsing error: invalid.tagatt class img ? at 62399
+Parsing error: req.att  src img ? at 62401
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 62453
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 62676
+Parsing error: invalid.tagatt data-click div ? at 62736
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 62989
+Parsing error: invalid.tagatt data-b64-id img ? at 63028
+Parsing error: invalid.tagatt class img ? at 63068
+Parsing error: req.att  src img ? at 63070
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 63122
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 63359
+Parsing error: invalid.tagatt data-click div ? at 63419
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 63671
+Parsing error: invalid.tagatt data-b64-id img ? at 63709
+Parsing error: invalid.tagatt class img ? at 63749
+Parsing error: req.att  src img ? at 63751
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 63803
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 64062
+Parsing error: invalid.tagatt data-click div ? at 64122
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 64375
+Parsing error: invalid.tagatt data-b64-id img ? at 64414
+Parsing error: invalid.tagatt class img ? at 64454
+Parsing error: req.att  src img ? at 64456
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 64508
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 64777
+Parsing error: invalid.tagatt tpl div ? at 64800
+Parsing error: invalid.tagatt data-click div ? at 65025
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class div ? at 65092
+Tag start(<div>), 1 attrs)
+Parsing error: tag.ignore style ? ? at 65105
+Parsing error: unmatched.endtag style ? ? at 65263
+Parsing error: invalid.tagatt class div ? at 65276
+Text(150 chars)
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 65335
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt title span ? at 65356
+Tag start(<span>), 1 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 65413
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 65434
+Parsing error: invalid.tagatt data-click div ? at 65500
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 65523
+Parsing error: invalid.tagatt data-click div ? at 65583
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 65836
+Parsing error: invalid.tagatt data-b64-id img ? at 65875
+Parsing error: invalid.tagatt class img ? at 65915
+Parsing error: req.att  src img ? at 65917
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 65969
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 66192
+Parsing error: invalid.tagatt data-click div ? at 66256
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 66532
+Parsing error: invalid.tagatt data-b64-id img ? at 66570
+Parsing error: invalid.tagatt class img ? at 66610
+Parsing error: req.att  src img ? at 66612
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 66664
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(8 chars)
+Parsing error: invalid.tagatt class div ? at 66929
+Parsing error: invalid.tagatt data-click div ? at 66991
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 67254
+Parsing error: invalid.tagatt data-b64-id img ? at 67293
+Parsing error: invalid.tagatt class img ? at 67333
+Parsing error: req.att  src img ? at 67335
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 67387
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 67657
+Parsing error: invalid.tagatt data-click div ? at 67718
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 67981
+Parsing error: invalid.tagatt data-b64-id img ? at 68020
+Parsing error: invalid.tagatt class img ? at 68060
+Parsing error: req.att  src img ? at 68062
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 68114
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 68378
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 68401
+Parsing error: invalid.tagatt data-click div ? at 68467
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 68490
+Parsing error: invalid.tagatt data-click div ? at 68550
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 68803
+Parsing error: invalid.tagatt data-b64-id img ? at 68842
+Parsing error: invalid.tagatt class img ? at 68882
+Parsing error: req.att  src img ? at 68884
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 68936
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 69159
+Parsing error: invalid.tagatt data-click div ? at 69223
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 69499
+Parsing error: invalid.tagatt data-b64-id img ? at 69537
+Parsing error: invalid.tagatt class img ? at 69577
+Parsing error: req.att  src img ? at 69579
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 69631
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(8 chars)
+Parsing error: invalid.tagatt class div ? at 69896
+Parsing error: invalid.tagatt data-click div ? at 69958
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 70221
+Parsing error: invalid.tagatt data-b64-id img ? at 70260
+Parsing error: invalid.tagatt class img ? at 70300
+Parsing error: req.att  src img ? at 70302
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 70354
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 70624
+Parsing error: invalid.tagatt data-click div ? at 70685
+Tag start(<div>), 2 attrs)
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt data-src img ? at 70948
+Parsing error: invalid.tagatt data-b64-id img ? at 70987
+Parsing error: invalid.tagatt class img ? at 71027
+Parsing error: req.att  src img ? at 71029
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class p ? at 71081
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Tag start(<div>), 0 attrs)
+Tag start(<div>), 0 attrs)
+Parsing error: javascript.unsupported ? ? ? at 71389
+Tag start(<script>), 0 attrs)
+Comment(47 chars)
+Parsing error: invalid.tagatt id div ? at 71467
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 71500
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 71522
+Parsing error: invalid.tagatt style div ? at 71548
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class div ? at 71621
+Parsing error: invalid.tagatt srcid div ? at 71636
+Parsing error: invalid.tagatt fk div ? at 71680
+Parsing error: invalid.tagatt id div ? at 71687
+Parsing error: invalid.tagatt tpl div ? at 71704
+Parsing error: invalid.tagatt mu div ? at 71786
+Parsing error: invalid.tagatt data-op div ? at 71813
+Parsing error: invalid.tagatt data-click div ? at 71863
+Tag start(<div>), 8 attrs)
+Parsing error: invalid.tagatt class h3 ? at 71910
+Tag start(<h3>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(14 chars)
+Parsing error: tag.ignore style ? ? at 72168
+Parsing error: unmatched.endtag style ? ? at 72240
+Text(64 chars)
+Tag start(<div>), 0 attrs)
+Parsing error: invalid.tagatt class div ? at 72278
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 72319
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 72529
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 72570
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class span ? at 72667
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 72707
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 72780
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 72809
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 72843
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 72884
+Text(7 chars)
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Parsing error: invalid.tagatt class span ? at 72930
+Text(4 chars)
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 72979
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 73011
+Text(4 chars)
+Tag start(<i>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 73056
+Tag start(<div>), 1 attrs)
+Tag start(<div>), 0 attrs)
+Parsing error: invalid.tagatt class span ? at 73095
+Tag start(<span>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class span ? at 73141
+Text(2 chars)
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class span ? at 73332
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class div ? at 73529
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 73561
+Text(4 chars)
+Tag start(<i>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 73630
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 73664
+Tag start(<span>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class span ? at 73706
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt style a ? at 73989
+Text(72 chars)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 74043
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 74086
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 74119
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 74162
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class i ? at 74359
+Parsing error: invalid.tagatt style i ? at 74400
+Tag start(<i>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 74497
+Tag start(<div>), 1 attrs)
+Text(3 chars)
+Tag start(<a>), 2 attrs)
+Parsing error: invalid.tagatt style i ? at 74749
+Tag start(<i>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt class div ? at 74834
+Tag start(<div>), 1 attrs)
+Text(4 chars)
+Tag start(<a>), 2 attrs)
+Parsing error: invalid.tagatt style i ? at 75066
+Tag start(<i>), 1 attrs)
+Text(2 chars)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Parsing error: invalid.tagatt style i ? at 75305
+Tag start(<i>), 1 attrs)
+Text(4 chars)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Parsing error: invalid.tagatt style i ? at 75546
+Tag start(<i>), 1 attrs)
+Text(2 chars)
+Tag start(<div>), 0 attrs)
+Parsing error: invalid.tagatt class span ? at 75605
+Tag start(<span>), 1 attrs)
+Text(22 chars)
+Parsing error: invalid.tagatt class span ? at 75657
+Parsing error: invalid.tagatt id span ? at 75689
+Parsing error: invalid.tagatt data-tools span ? at 75897
+Tag start(<span>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 75919
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 75960
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 76109
+Parsing error: invalid.tagatt srcid div ? at 76121
+Parsing error: invalid.tagatt fk div ? at 76133
+Parsing error: invalid.tagatt id div ? at 76140
+Parsing error: invalid.tagatt tpl div ? at 76158
+Parsing error: invalid.tagatt mu div ? at 76217
+Parsing error: invalid.tagatt data-op div ? at 76244
+Parsing error: invalid.tagatt data-click div ? at 76307
+Tag start(<div>), 8 attrs)
+Parsing error: invalid.tagatt class h3 ? at 76335
+Tag start(<h3>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 76497
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 76535
+Tag start(<div>), 1 attrs)
+Tag start(<p>), 0 attrs)
+Text(1 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(72 chars)
+Parsing error: invalid.tagatt class div ? at 76670
+Tag start(<div>), 1 attrs)
+Tag start(<span>), 0 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class span ? at 76738
+Text(1 chars)
+Tag start(<span>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Text(9 chars)
+Parsing error: invalid.tagatt class span ? at 76894
+Text(1 chars)
+Tag start(<span>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Text(11 chars)
+Parsing error: invalid.tagatt class p ? at 77076
+Tag start(<p>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Text(3 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(9 chars)
+Parsing error: invalid.tagatt class p ? at 77243
+Tag start(<p>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 77267
+Tag start(<span>), 1 attrs)
+Text(28 chars)
+Parsing error: invalid.tagatt class span ? at 77325
+Parsing error: invalid.tagatt id span ? at 77357
+Parsing error: invalid.tagatt data-tools span ? at 77457
+Tag start(<span>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 77479
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 77520
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 77605
+Parsing error: invalid.tagatt id div ? at 77612
+Parsing error: invalid.tagatt srcid div ? at 77625
+Parsing error: invalid.tagatt tpl div ? at 77660
+Parsing error: invalid.tagatt data-click div ? at 77691
+Tag start(<div>), 5 attrs)
+Parsing error: tag.ignore style ? ? at 77701
+Parsing error: unmatched.endtag style ? ? at 78353
+Parsing error: invalid.tagatt class h3 ? at 78366
+Text(572 chars)
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 78619
+Tag start(<a>), 3 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(16 chars)
+Parsing error: invalid.tagatt class div ? at 78693
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 78855
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 78964
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class span ? at 79005
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 79050
+Tag start(<div>), 1 attrs)
+Tag start(<font>), 1 attrs)
+Parsing error: invalid.tagatt style p ? at 79088
+Tag start(<p>), 1 attrs)
+Text(18 chars)
+Tag start(<p>), 0 attrs)
+Text(36 chars)
+Parsing error: invalid.tagatt class div ? at 79306
+Text(63 chars)
+Parsing error: end.missing font ? ? at 79307
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 79375
+Parsing error: invalid.tagatt id div ? at 79406
+Parsing error: invalid.tagatt data-tools div ? at 79578
+Text(38 chars)
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 79600
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 79641
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 79683
+Parsing error: invalid.tagatt class a ? at 80117
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: unmatched.endtag font ? ? at 80139
+Parsing error: invalid.tagatt class div ? at 80239
+Parsing error: invalid.tagatt srcid div ? at 80251
+Parsing error: invalid.tagatt id div ? at 80259
+Parsing error: invalid.tagatt tpl div ? at 80274
+Parsing error: invalid.tagatt mu div ? at 80364
+Parsing error: invalid.tagatt data-op div ? at 80391
+Parsing error: invalid.tagatt data-click div ? at 80453
+Tag start(<div>), 7 attrs)
+Parsing error: invalid.tagatt class h3 ? at 80472
+Tag start(<h3>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(7 chars)
+Parsing error: invalid.tagatt class div ? at 80659
+Tag start(<div>), 1 attrs)
+Tag start(<ul>), 0 attrs)
+Parsing error: invalid.tagatt class li ? at 80698
+Tag start(<li>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 80737
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 80794
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 81134
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class div ? at 81201
+Tag start(<div>), 1 attrs)
+Tag start(<p>), 0 attrs)
+Parsing error: invalid.tagatt data-click a ? at 81414
+Tag start(<a>), 3 attrs)
+Text(11 chars)
+Text(8 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class a ? at 81645
+Parsing error: invalid.tagatt data-click a ? at 81681
+Text(37 chars)
+Tag start(<a>), 4 attrs)
+Parsing error: invalid.tagatt class i ? at 81755
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 81819
+Parsing error: invalid.tagatt data-click a ? at 81858
+Tag start(<a>), 4 attrs)
+Text(6 chars)
+Parsing error: invalid.tagatt class div ? at 82068
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 82097
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 82305
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt data-click a ? at 82579
+Text(7 chars)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 82611
+Tag start(<div>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Text(5 chars)
+Text(3 chars)
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class li ? at 83044
+Tag start(<li>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 83083
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 83140
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 83479
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class div ? at 83546
+Tag start(<div>), 1 attrs)
+Tag start(<p>), 0 attrs)
+Parsing error: invalid.tagatt data-click a ? at 83759
+Tag start(<a>), 3 attrs)
+Text(8 chars)
+Text(3 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class a ? at 84080
+Parsing error: invalid.tagatt data-click a ? at 84116
+Text(135 chars)
+Tag start(<a>), 4 attrs)
+Parsing error: invalid.tagatt class i ? at 84190
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 84254
+Parsing error: invalid.tagatt data-click a ? at 84293
+Tag start(<a>), 4 attrs)
+Text(6 chars)
+Parsing error: invalid.tagatt class div ? at 84503
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 84532
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 84740
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt data-click a ? at 85014
+Text(7 chars)
+Tag start(<a>), 3 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 85046
+Tag start(<div>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Text(3 chars)
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 85507
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 85723
+Tag start(<a>), 3 attrs)
+Text(10 chars)
+Parsing error: invalid.tagatt class div ? at 85788
+Parsing error: invalid.tagatt id div ? at 85795
+Parsing error: invalid.tagatt srcid div ? at 85808
+Parsing error: invalid.tagatt tpl div ? at 85843
+Parsing error: invalid.tagatt data-click div ? at 85874
+Tag start(<div>), 5 attrs)
+Parsing error: tag.ignore style ? ? at 85884
+Parsing error: unmatched.endtag style ? ? at 86536
+Parsing error: invalid.tagatt class h3 ? at 86549
+Text(572 chars)
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 86802
+Tag start(<a>), 3 attrs)
+Text(1 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(19 chars)
+Parsing error: invalid.tagatt class div ? at 86880
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 87042
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 87151
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class span ? at 87192
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 87237
+Tag start(<div>), 1 attrs)
+Tag start(<font>), 1 attrs)
+Parsing error: invalid.tagatt style p ? at 87275
+Tag start(<p>), 1 attrs)
+Text(8 chars)
+Tag start(<p>), 0 attrs)
+Text(87 chars)
+Parsing error: invalid.tagatt class div ? at 87401
+Parsing error: end.missing font ? ? at 87402
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 87470
+Parsing error: invalid.tagatt id div ? at 87501
+Parsing error: invalid.tagatt data-tools div ? at 87677
+Text(38 chars)
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 87699
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 87740
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 87782
+Parsing error: invalid.tagatt class a ? at 88206
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: unmatched.endtag font ? ? at 88228
+Parsing error: invalid.tagatt class div ? at 88277
+Parsing error: invalid.tagatt id div ? at 88284
+Parsing error: invalid.tagatt srcid div ? at 88297
+Parsing error: invalid.tagatt tpl div ? at 88318
+Parsing error: invalid.tagatt data-click div ? at 88349
+Tag start(<div>), 5 attrs)
+Parsing error: invalid.tagatt class h3 ? at 88365
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 88527
+Tag start(<a>), 3 attrs)
+Text(27 chars)
+Parsing error: invalid.tagatt class div ? at 88759
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 88798
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt style a ? at 88821
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt style img ? at 89057
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class div ? at 89103
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 89127
+Tag start(<div>), 1 attrs)
+Text(45 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(31 chars)
+Parsing error: invalid.tagatt class div ? at 89240
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 89256
+Tag start(<span>), 1 attrs)
+Text(31 chars)
+Parsing error: invalid.tagatt class div ? at 89325
+Parsing error: invalid.tagatt id div ? at 89357
+Parsing error: invalid.tagatt data-tools div ? at 89513
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 89535
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 89576
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 89618
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 89646
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog span ? at 89664
+Parsing error: invalid.tagatt class span ? at 89679
+Parsing error: invalid.tagatt id span ? at 89710
+Tag start(<span>), 3 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 89759
+Parsing error: invalid.tagatt class a ? at 90177
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 90241
+Parsing error: invalid.tagatt id div ? at 90248
+Parsing error: invalid.tagatt srcid div ? at 90261
+Parsing error: invalid.tagatt tpl div ? at 90282
+Parsing error: invalid.tagatt data-click div ? at 90313
+Tag start(<div>), 5 attrs)
+Parsing error: invalid.tagatt class h3 ? at 90329
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 90521
+Tag start(<a>), 3 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(29 chars)
+Parsing error: invalid.tagatt class div ? at 90769
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 90808
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt style a ? at 90831
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt style img ? at 91067
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class div ? at 91113
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 91137
+Tag start(<div>), 1 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(93 chars)
+Parsing error: invalid.tagatt class div ? at 91268
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 91284
+Tag start(<span>), 1 attrs)
+Text(36 chars)
+Parsing error: invalid.tagatt class div ? at 91358
+Parsing error: invalid.tagatt id div ? at 91388
+Parsing error: invalid.tagatt data-tools div ? at 91552
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 91574
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 91615
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 91657
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 91685
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog span ? at 91703
+Parsing error: invalid.tagatt class span ? at 91718
+Parsing error: invalid.tagatt id span ? at 91747
+Tag start(<span>), 3 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 91796
+Parsing error: invalid.tagatt class a ? at 92218
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt style div ? at 92288
+Parsing error: invalid.tagatt class div ? at 92305
+Parsing error: invalid.tagatt data-extquery div ? at 92330
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt style a ? at 92497
+Tag start(<a>), 3 attrs)
+Text(7 chars)
+Tag start(<em>), 0 attrs)
+Text(8 chars)
+Text(7 chars)
+Parsing error: invalid.tagatt class div ? at 92582
+Parsing error: invalid.tagatt id div ? at 92589
+Parsing error: invalid.tagatt srcid div ? at 92602
+Parsing error: invalid.tagatt tpl div ? at 92637
+Parsing error: invalid.tagatt data-click div ? at 92668
+Tag start(<div>), 5 attrs)
+Parsing error: tag.ignore style ? ? at 92678
+Parsing error: unmatched.endtag style ? ? at 93330
+Parsing error: invalid.tagatt class h3 ? at 93343
+Text(572 chars)
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 93596
+Tag start(<a>), 3 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(12 chars)
+Parsing error: invalid.tagatt class div ? at 93666
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 93828
+Tag start(<a>), 3 attrs)
+Parsing error: invalid.tagatt class img ? at 93937
+Tag(<img>, 3 attrs)
+Parsing error: invalid.tagatt class span ? at 93978
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 94023
+Tag start(<div>), 1 attrs)
+Tag start(<font>), 1 attrs)
+Parsing error: invalid.tagatt style p ? at 94061
+Tag start(<p>), 1 attrs)
+Text(13 chars)
+Tag start(<p>), 0 attrs)
+Text(39 chars)
+Parsing error: invalid.tagatt class div ? at 94267
+Text(63 chars)
+Parsing error: end.missing font ? ? at 94268
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 94336
+Parsing error: invalid.tagatt id div ? at 94366
+Parsing error: invalid.tagatt data-tools div ? at 94534
+Text(38 chars)
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 94556
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 94597
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 94639
+Parsing error: invalid.tagatt class a ? at 95059
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: unmatched.endtag font ? ? at 95081
+Parsing error: invalid.tagatt class div ? at 95130
+Parsing error: invalid.tagatt id div ? at 95137
+Parsing error: invalid.tagatt srcid div ? at 95150
+Parsing error: invalid.tagatt tpl div ? at 95171
+Parsing error: invalid.tagatt data-click div ? at 95202
+Tag start(<div>), 5 attrs)
+Parsing error: invalid.tagatt class h3 ? at 95218
+Tag start(<h3>), 1 attrs)
+Parsing error: invalid.tagatt data-click a ? at 95410
+Tag start(<a>), 3 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(5 chars)
+Parsing error: tag.ignore style ? ? at 95629
+Parsing error: unmatched.endtag style ? ? at 95729
+Parsing error: invalid.tagatt class div ? at 95747
+Parsing error: invalid.tagatt id div ? at 95760
+Text(92 chars)
+Tag start(<div>), 2 attrs)
+Parsing error: invalid.tagatt class span ? at 95776
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 95814
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 95847
+Parsing error: invalid.tagatt style span ? at 95866
+Tag start(<span>), 2 attrs)
+Text(10 chars)
+Parsing error: invalid.tagatt class div ? at 95932
+Tag start(<div>), 1 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(10 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(24 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(38 chars)
+Parsing error: invalid.tagatt class div ? at 96069
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 96085
+Tag start(<span>), 1 attrs)
+Text(45 chars)
+Parsing error: invalid.tagatt class div ? at 96168
+Parsing error: invalid.tagatt id div ? at 96200
+Parsing error: invalid.tagatt data-tools div ? at 96362
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt class a ? at 96384
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 96425
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 96467
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 96495
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt data-nolog span ? at 96513
+Parsing error: invalid.tagatt class span ? at 96528
+Parsing error: invalid.tagatt id span ? at 96559
+Tag start(<span>), 3 attrs)
+Parsing error: invalid.tagatt data-nolog a ? at 96608
+Parsing error: invalid.tagatt class a ? at 97044
+Text(3 chars)
+Tag start(<a>), 4 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt style div ? at 97102
+Parsing error: invalid.tagatt class div ? at 97119
+Parsing error: invalid.tagatt data-extquery div ? at 97144
+Tag start(<div>), 3 attrs)
+Parsing error: invalid.tagatt style a ? at 97311
+Tag start(<a>), 3 attrs)
+Text(7 chars)
+Tag start(<em>), 0 attrs)
+Text(8 chars)
+Text(7 chars)
+Parsing error: invalid.tagatt class div ? at 97447
+Parsing error: invalid.tagatt srcid div ? at 97459
+Parsing error: invalid.tagatt id div ? at 97468
+Parsing error: invalid.tagatt tpl div ? at 97486
+Parsing error: invalid.tagatt mu div ? at 97572
+Parsing error: invalid.tagatt data-op div ? at 97599
+Parsing error: invalid.tagatt data-click div ? at 97662
+Tag start(<div>), 7 attrs)
+Parsing error: invalid.tagatt class h3 ? at 97681
+Tag start(<h3>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(7 chars)
+Parsing error: invalid.tagatt class div ? at 97846
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class div ? at 97882
+Tag start(<div>), 1 attrs)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(25 chars)
+Parsing error: invalid.tagatt class div ? at 98138
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt class a ? at 98342
+Parsing error: invalid.tagatt data-click a ? at 98380
+Tag start(<a>), 4 attrs)
+Parsing error: invalid.tagatt class img ? at 98466
+Tag(<img>, 2 attrs)
+Parsing error: invalid.tagatt class div ? at 98500
+Tag start(<div>), 1 attrs)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(25 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(56 chars)
+Tag(<br>, 0 attrs)
+Parsing error: invalid.tagatt style span ? at 98649
+Tag start(<span>), 1 attrs)
+Text(9 chars)
+Parsing error: invalid.tagatt style span ? at 98700
+Text(2 chars)
+Tag start(<span>), 1 attrs)
+Text(5 chars)
+Parsing error: invalid.tagatt class div ? at 98757
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt style span ? at 98797
+Tag start(<span>), 1 attrs)
+Text(5 chars)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(5 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(1 chars)
+Parsing error: invalid.tagatt style span ? at 99018
+Text(1 chars)
+Tag start(<span>), 1 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 99068
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt style span ? at 99108
+Tag start(<span>), 1 attrs)
+Text(5 chars)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(11 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(1 chars)
+Parsing error: invalid.tagatt style span ? at 99335
+Text(1 chars)
+Tag start(<span>), 1 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class div ? at 99385
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt style span ? at 99425
+Tag start(<span>), 1 attrs)
+Text(3 chars)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Text(8 chars)
+Tag start(<em>), 0 attrs)
+Text(5 chars)
+Text(17 chars)
+Parsing error: invalid.tagatt style span ? at 99705
+Text(1 chars)
+Tag start(<span>), 1 attrs)
+Text(3 chars)
+Parsing error: invalid.tagatt style div ? at 99792
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt id p ? at 99811
+Tag start(<p>), 1 attrs)
+Tag start(<strong>), 0 attrs)
+Parsing error: invalid.tagatt class span ? at 99844
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 99876
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 99904
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100025
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100058
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100086
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100198
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100231
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100259
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100375
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100408
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100436
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100548
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100581
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100609
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100725
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100758
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100786
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100898
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 100931
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 100959
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101075
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 101108
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101136
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101248
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 101281
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101309
+Tag start(<span>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101425
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 101458
+Tag start(<i>), 1 attrs)
+Parsing error: invalid.tagatt class span ? at 101486
+Tag start(<span>), 1 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt class a ? at 101603
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt class span ? at 101633
+Parsing error: invalid.tagatt style span ? at 101659
+Tag start(<span>), 2 attrs)
+Text(21 chars)
+Parsing error: invalid.tagatt class p ? at 101711
+Tag start(<p>), 1 attrs)
+Parsing error: invalid.tagatt class i ? at 101759
+Tag start(<i>), 1 attrs)
+Text(1 chars)
+Tag start(<a>), 2 attrs)
+Tag start(<em>), 0 attrs)
+Text(6 chars)
+Text(2 chars)
+Parsing error: invalid.tagatt id div ? at 101926
+Tag start(<div>), 1 attrs)
+Tag start(<table>), 1 attrs)
+Tag start(<tr>), 0 attrs)
+Parsing error: invalid.tagatt class th ? at 101980
+Tag start(<th>), 2 attrs)
+Text(4 chars)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(7 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(9 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(9 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(2 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(2 chars)
+Tag start(<tr>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(7 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(9 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(7 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(8 chars)
+Tag start(<td>), 0 attrs)
+Tag start(<th>), 0 attrs)
+Tag start(<a>), 1 attrs)
+Text(10 chars)
+Parsing error: invalid.tagatt id div ? at 103988
+Tag start(<div>), 1 attrs)
+Parsing error: invalid.tagatt name form ? at 104004
+Tag start(<form>), 2 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Tag(<input>, 3 attrs)
+Parsing error: invalid.tagatt class span ? at 104218
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class input ? at 104249
+Tag(<input>, 4 attrs)
+Parsing error: invalid.tagatt class span ? at 104312
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt class input ? at 104363
+Parsing error: invalid.tagatt onmouseout input ? at 104402
+Parsing error: invalid.tagatt onmousedown input ? at 104450
+Tag(<input>, 5 attrs)
+Parsing error: invalid.tagatt class span ? at 104478
+Tag start(<span>), 1 attrs)
+Parsing error: invalid.tagatt onmousedown a ? at 104623
+Text(3 chars)
+Tag start(<a>), 2 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt onmousedown a ? at 104796
+Text(3 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt id a ? at 104837
+Parsing error: invalid.tagatt onclick a ? at 104861
+Parsing error: invalid.tagatt onmousedown a ? at 105002
+Text(3 chars)
+Tag start(<a>), 5 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt onmousedown a ? at 105184
+Text(3 chars)
+Tag start(<a>), 3 attrs)
+Text(2 chars)
+Parsing error: invalid.tagatt onclick a ? at 105353
+Parsing error: invalid.tagatt onmousedown a ? at 105444
+Text(3 chars)
+Tag start(<a>), 3 attrs)
+Text(4 chars)
+Parsing error: invalid.tagatt id div ? at 105487
+Tag start(<div>), 1 attrs)
+Text(12 chars)
+Tag start(<span>), 0 attrs)
+Text(38 chars)
+Parsing error: invalid.tagatt class div ? at 105607
+Parsing error: invalid.tagatt id div ? at 105629
+Tag start(<div>), 2 attrs)
+Parsing error: javascript.unsupported ? ? ? at 105651
+Tag start(<html>), 1 attrs)
+Tag start(<head>), 1 attrs)
+Tag start(<script>), 0 attrs)
+Comment(0 chars)
+Parsing error: invalid.tagatt type script ? at 105690
+Parsing error: javascript.unsupported ? ? ? at 105691
+Tag start(<script>), 1 attrs)
+Comment(665 chars)
+Parsing error: invalid.tagatt type script ? at 106395
+Parsing error: invalid.tagatt src script ? at 106480
+Parsing error: javascript.unsupported ? ? ? at 106481
+Tag start(<script>), 2 attrs)
+Comment(0 chars)
+Parsing error: invalid.tagatt type script ? at 106520
+Parsing error: invalid.tagatt src script ? at 106597
+Parsing error: javascript.unsupported ? ? ? at 106598
+Tag start(<script>), 2 attrs)
+Comment(0 chars)
+Parsing error: javascript.unsupported ? ? ? at 106615
+Tag start(<script>), 0 attrs)
+Comment(1358 chars)
+Parsing error: invalid.tagatt type script ? at 108012
+Parsing error: javascript.unsupported ? ? ? at 108013
+Tag start(<script>), 1 attrs)
+Comment(19 chars)
+Parsing error: end.unexpected html ? ? at 108048
