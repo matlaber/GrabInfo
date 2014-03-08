@@ -3,6 +3,7 @@ package org.test.htmlparser;
 import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
+import java.util.regex.Pattern;
 
 import javax.swing.text.*;
 import javax.swing.text.html.*;
@@ -80,17 +81,49 @@ public class HtmlParser {
 				PairFinder pf = new PairFinder("div");
 				pf.makeTagPairs(spec);
 				ArrayList<MyPosPair> listOfPos = pf.getMyPosPairList();
+//				for(int i = 0; i < listOfPos.size(); i++) {
+//					MyPosPair cmpp = listOfPos.get(i);
+//					System.out.println(cmpp.getStartPos().getRow() +
+//							", " + cmpp.getStartPos().getCol() +
+//							", " + cmpp.getEndPos().getRow() +
+//							", " + cmpp.getEndPos().getCol() );
+//				}
+//				System.out.println("Found complete");
+				
 				for(int i = 0; i < listOfPos.size(); i++) {
 					MyPosPair cmpp = listOfPos.get(i);
-					System.out.println(cmpp.getStartPos().getRow() +
-							", " + cmpp.getStartPos().getCol() +
-							", " + cmpp.getEndPos().getRow() +
-							", " + cmpp.getEndPos().getCol() );
+					String divText = MyHtmlParser.getInternalText(
+							spec, cmpp.getStartPos(), cmpp.getEndPos());
+					Pattern digPtn = Pattern.compile("[0-9]*");
+					int idIndex = divText.indexOf(" id=");
+					if(idIndex > 0) {
+
+						String idSubStr = divText.substring(idIndex);
+						int firstQuotePos = idSubStr.indexOf('"');
+						int lastQuotePos = idSubStr.indexOf('"', firstQuotePos+1);
+						String digStr = idSubStr.substring(firstQuotePos+1, lastQuotePos);
+						if(digPtn.matcher(digStr).matches()) {
+							System.out.println(idSubStr);							
+							// find h3 and the internal "a href"
+							int h3Index = divText.indexOf("<h3");							
+							if(h3Index >= 0) {
+								String h3SubStr = 
+										divText.substring(h3Index);
+								int ahrefIndex = h3SubStr.indexOf(" href=");
+								int lastQuoteIndex = h3SubStr.indexOf('"', ahrefIndex + (" href=").length() + 1);
+								System.out.println(h3SubStr.substring
+										(ahrefIndex, lastQuoteIndex));
+								System.out.println("----------------------------------");
+								
+							}
+						}
+					}
 				}
-				System.out.println("Found complete");
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
+			
+			
 			// get the internal text.
 			
 		} catch (Exception e) {
