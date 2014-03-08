@@ -94,11 +94,12 @@ public class HtmlParser {
 					MyPosPair cmpp = listOfPos.get(i);
 					String divText = MyHtmlParser.getInternalText(
 							spec, cmpp.getStartPos(), cmpp.getEndPos());
+					String divAttrText = divText.substring(0, divText.indexOf('>'));
 					Pattern digPtn = Pattern.compile("[0-9]*");
-					int idIndex = divText.indexOf(" id=");
+					int idIndex = divAttrText.indexOf(" id=");
 					if(idIndex > 0) {
 
-						String idSubStr = divText.substring(idIndex);
+						String idSubStr = divAttrText.substring(idIndex);
 						int firstQuotePos = idSubStr.indexOf('"');
 						int lastQuotePos = idSubStr.indexOf('"', firstQuotePos+1);
 						String digStr = idSubStr.substring(firstQuotePos+1, lastQuotePos);
