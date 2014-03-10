@@ -104,7 +104,7 @@ public class HtmlParser {
 						int lastQuotePos = idSubStr.indexOf('"', firstQuotePos+1);
 						String digStr = idSubStr.substring(firstQuotePos+1, lastQuotePos);
 						if(digPtn.matcher(digStr).matches()) {
-							System.out.println(idSubStr);							
+							System.out.print("id=" + digStr + " ");							
 							// find h3 and the internal "a href"
 							int h3Index = divText.indexOf("<h3");							
 							if(h3Index >= 0) {
@@ -114,7 +114,7 @@ public class HtmlParser {
 								int lastQuoteIndex = h3SubStr.indexOf('"', ahrefIndex + (" href=").length() + 1);
 								System.out.println(h3SubStr.substring
 										(ahrefIndex, lastQuoteIndex));
-								System.out.println("----------------------------------");
+//								System.out.println("----------------------------------");
 								
 							}
 						}
